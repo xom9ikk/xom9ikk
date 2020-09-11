@@ -16,8 +16,8 @@ Currently focused developing backend and frontend parts using `JavaScript` and `
 
 ### Backend:  
 > Node.js 💚; <br>
-Frameworks: (Fastify 🖤, Express, Koa); <br>
-Databases: (PostgreSQL (knex or pg) 💙, MongoDB (mongoose), Redis); <br>
+Frameworks: Fastify 🖤, Express, Koa; <br>
+Databases: PostgreSQL (knex or pg) 💙, MongoDB (mongoose), Redis; <br>
 Other stuff: GRPC, ZeroMQ, WebSocket (socket.io, but prefer ws), Microservices architecture, Docker 🐳, NGINX  
   
 ### Frontend
