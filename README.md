@@ -26,11 +26,6 @@ Other stuff: GRPC, ZeroMQ, WebSocket (socket.io, but prefer ws), Microservices a
 ### Other:  
 > Linux/MacOS 🚀, Bash 💣, Git, Google Cloud Platform, FFmpeg/CUDA/RTMP/HLS/WebRTC
 
-### 2020 goals:  
-- Improve skills in NestJS
-- Learn TypeScript better
-- Improve knowledge in Golang
-
 ### Contacts
 > Drop me a PM, if you think I can be useful.
 
