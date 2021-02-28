@@ -36,3 +36,9 @@ Other stuff: GRPC, ZeroMQ, WebSocket (socket.io, but prefer ws), Microservices a
 [xom9ik.code@gmail.com]: mailto:xom9ik.code@gmail.com
 [linkedin]: https://linkedin.com/in/xom9ik
 [telegram]: https://t.me/xom9ik
+
+<br />
+<br />
+
+![](https://komarev.com/ghpvc/?username=xom9ikk&style=flat)
+
