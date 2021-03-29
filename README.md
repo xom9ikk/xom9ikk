@@ -33,11 +33,13 @@ Other stuff: GRPC, ZeroMQ, WebSocket (socket.io, but prefer ws), Microservices a
 [<img align="left" alt="xom9ik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="xom9ik | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="xom9ik | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="xom9ik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [xom9ik.code@gmail.com]: mailto:xom9ik.code@gmail.com
 [linkedin]: https://linkedin.com/in/xom9ik
 [stackoverflow]: https://stackoverflow.com/users/7920683/xom9ikk
 [telegram]: https://t.me/xom9ik
+[twitter]: https://twitter.com/xom9ikk
 
 <br />
 <br />
