@@ -21,7 +21,7 @@ Databases: PostgreSQL (knex or pg) 💙, MongoDB (mongoose), Redis; <br>
 Other stuff: GRPC, ZeroMQ, WebSocket (socket.io, but prefer ws), Microservices architecture, Docker 🐳, NGINX  
   
 ### Frontend
-> React  ⚛️, Redux, Saga/thunk, SASS + BEM methodology  
+> React  ⚛️, Redux, Saga/thunk, SASS + BEM methodology
   
 ### Other:  
 > Linux/MacOS 🚀, Bash 💣, Git, Google Cloud Platform, FFmpeg/CUDA/RTMP/HLS/WebRTC
@@ -31,10 +31,12 @@ Other stuff: GRPC, ZeroMQ, WebSocket (socket.io, but prefer ws), Microservices a
 
 [<img align="left" alt="xom9ik | Gmail" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][xom9ik.code@gmail.com]
 [<img align="left" alt="xom9ik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="xom9ik | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="xom9ik | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 [xom9ik.code@gmail.com]: mailto:xom9ik.code@gmail.com
 [linkedin]: https://linkedin.com/in/xom9ik
+[stackoverflow]: https://stackoverflow.com/users/7920683/xom9ikk
 [telegram]: https://t.me/xom9ik
 
 <br />
