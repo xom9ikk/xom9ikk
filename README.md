@@ -48,5 +48,4 @@ Currently focused developing backend and frontend parts using `JavaScript` and `
 <br />
 <br />
 
-![](https://komarev.com/ghpvc/?username=xom9ikk&style=flat)
 ![](https://hit.yhype.me/github/profile?user_id=39026593)
