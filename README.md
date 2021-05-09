@@ -1,4 +1,3 @@
-
 ### About me:
 I'm a full-stack engineer doing web development since 2016. <br>
 I like to solve problem. I always strive to expand my area of competence, self-motivated.<br>
@@ -21,7 +20,7 @@ Currently focused developing backend and frontend parts using `JavaScript` and `
 - `Methodologies:` Scrum, Kanban, TDD
 - `Other:` Git, Bash, NGINX, Docker, Prometheus, Grafana, Github Actions, TeamCity
 
-### Pet-projects
+### Pet-projects:
 - [Verticals](https://verticals.xom9ik.com) — Checklist with vertical separation ([frontend](https://github.com/xom9ikk/verticals) & [backend](https://github.com/xom9ikk/verticals-backend))
 - [Animated Blobs](https://blobs.xom9ik.com) — Create cool animated GIF or SVG shapes for your designs ([repo](https://github.com/xom9ikk/animated-blobs))
 - [Amaze Ball Game](https://ball.xom9ik.com) — Fill each square to unlock more addictive maze paint puzzles ([repo](https://github.com/xom9ikk/ball-game))
@@ -30,8 +29,8 @@ Currently focused developing backend and frontend parts using `JavaScript` and `
 - [Fonts](https://fonts.xom9ik.com) — Generate unique and inspiring fonts ([repo](https://github.com/xom9ikk/fonts))
 
 
-### Contacts
-> Drop me a PM, if you think I can be useful.
+### Contacts:
+Drop me a PM, if you think I can be useful.
 
 [<img align="left" alt="xom9ik | Gmail" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][xom9ik.code@gmail.com]
 [<img align="left" alt="xom9ik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
