@@ -1,6 +1,6 @@
 ### About me:
 I'm a full-stack engineer doing web development since 2016.
-I like to solve problem. I always strive to expand my area of competence, self-motivated.
+I like to solve problem and always strive to expand my area of competence, self-motivated.
 Currently focused developing backend and frontend parts using `JavaScript` and `Typescript`. 
 
 ### Skills:
