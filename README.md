@@ -1,7 +1,7 @@
 ### About me:
 I'm a full-stack engineer doing web development since 2016.
 I like to solve problem and always strive to expand my area of competence, self-motivated.
-Currently focused developing backend and frontend parts using `JavaScript` and `Typescript`. 
+Currently focused developing backend and frontend parts using `JavaScript` and `TypeScript`. 
 
 ### Skills:
 - `Operating systems:` macOS, Linux (Ubuntu).
