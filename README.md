@@ -7,8 +7,8 @@ Currently focused developing backend and frontend parts using `JavaScript` and `
 - `Operating systems:` macOS, Linux (Ubuntu).
 - `Programming languages:` JavaScript, TypeScript, Golang, ~~PHP~~, ~~Java~~
 - `Frontend:` React, Next.js, React Native, redux, redux-saga, babel, webpack, sass, BEM
-- `Backend:` Node.js, fastify, express, knex, pino, AJV, gRPC, ws, pm2, zeroMQ, swagger
-- `Databases:` PostgreSQL, MongoDB, Redis
+- `Backend:` Node.js, NestJS, fastify, express, knex, pino, AJV, gRPC, ws, pm2, zeroMQ, swagger
+- `Databases:` PostgreSQL, MongoDB, Aerospike, Redis
 - `Testing:` Jest, Storybook, loki, enzyme, redux-saga-test-plan
 - `Specific:` FFmpeg, RTMP, HLS, WebRTC, CUDA
 - `Methodologies:` Scrum, Kanban, TDD
