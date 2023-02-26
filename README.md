@@ -21,6 +21,7 @@ Currently focused developing backend and frontend parts using `JavaScript` and `
 - [The Fifteen Game](https://fifteen.xom9ik.com) — Just fifteen game, but in modern design ([repo](https://github.com/xom9ikk/fifteen-game))
 - [Colors](https://colors.xom9ik.com) — Generate random colors and gradients ([repo](https://github.com/xom9ikk/colors))
 - [Fonts](https://fonts.xom9ik.com) — Generate unique and inspiring fonts ([repo](https://github.com/xom9ikk/fonts))
+- [English](https://english.xom9ik.com) — Learn new frequently used English words
 
 
 ### Links
